@@ -1,1 +1,1 @@
-# Chatbot using python(basic libraray)
+# Chatbot using python(basic library)
